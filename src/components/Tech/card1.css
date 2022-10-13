@@ -1,0 +1,26 @@
+.HTML_img{
+    height: 100px;
+}
+.Tech{
+    margin: 2%;
+    background-color: aliceblue;
+    border-top: 5px solid red;
+    border-radius: 20px;
+}
+
+.Bg{
+    background-color: antiquewhite;
+}
+
+.css{
+    border-top: 5px solid rgb(49, 141, 240);
+}
+.js{
+    border-top: 5px solid goldenrod;
+}
+.boot{
+    border-top: 5px solid purple;
+}
+.outer{
+    margin-left: 5%;
+}

@@ -1,0 +1,26 @@
+.mango_img{
+    width: 200px;
+    height: 200px;
+}
+.banana_img{
+    width: 300px;
+    height: 200px;
+}
+.box{
+    margin: auto;
+    text-align: center;
+    width: 800px;
+    height: 500px;
+    background-color: white;
+    border-radius: 20px;
+
+}
+.Background{
+    background-color: goldenrod;
+    width: 100%;
+    height: 601px;
+    padding-top: 20px;
+}
+.head2{
+    padding-top: 30px;
+}

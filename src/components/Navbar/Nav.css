@@ -1,0 +1,19 @@
+.ulist{
+    display: flex;
+    list-style: none;
+}
+li{
+    margin-left: 20px;
+    font-size: 18px;
+    color: #ffffff;
+}
+.Nav{
+    width: 100%;
+    background-color: black;
+    padding-top: 13px;
+    padding-bottom: 10px;
+}
+a:hover{
+    text-decoration: none;
+
+}

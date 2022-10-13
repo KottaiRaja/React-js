@@ -1,0 +1,41 @@
+.Count_div{
+    margin: auto;
+    text-align: center;
+    margin-top: 5%;
+    width: 400px;
+    height: 300px;
+    background-color: bisque;
+    border-radius: 20%;
+    box-shadow: 1px 1px 1px gray;
+}
+
+.Count_btn3{
+    margin-left: 20px;
+    padding: 8px;
+    border-radius: 8%;
+    border: 0;
+    box-shadow: 1px 1px 1px gray;
+    background-color: black;
+    color: aliceblue;
+}
+.Count_btn1{
+    padding: 8px;
+    border-radius: 8%;
+    border: 0;
+    box-shadow: 1px 1px 1px gray;
+    background-color: black;
+    color: aliceblue;
+}
+.Count_btn2{
+    margin-left: 20px;
+    padding: 8px;
+    border-radius: 8%;
+    border: 0;
+    box-shadow: 1px 1px 1px gray;
+    background-color: black;
+    color: aliceblue;
+}
+.Count_head1{
+    padding-top: 30px;
+    font-size: 80px;
+}
